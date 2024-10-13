@@ -5,4 +5,4 @@ I have been working in IT since 2011. Mainly involved in technical support at L2
 
 *   🌍  I'm based in Saratov
 *   ✉️  You can contact me at [https://t.me/M33RR3Y](mailto:https://t.me/M33RR3Y)
-*   🧠  I'm learning I'm currently learning how to develop neural networks.
+*   🧠  I'm currently learning how to develop neural networks.
