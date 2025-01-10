@@ -11,3 +11,4 @@ My projects:
 *   [Detecting Fake News](https://github.com/M33RR3Y/Detecting-Fake-News)
 *   [Detecting Parkinson's Disease with XGBoost](https://github.com/M33RR3Y/Detecting-Parkinson-s-Disease-with-XGBoost)
 *   [Detecting fraud in credit card transactions](https://github.com/M33RR3Y/Detecting-fraud-in-credit-card-transactions)
+*   [QuizBot](https://github.com/M33RR3Y/QuizBot)
